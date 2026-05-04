@@ -1,0 +1,6 @@
+{
+  "name": "Rakta-Vahini",
+  "description": "A healthcare application for blood donation connecting eligible donors with recipients in emergencies.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": []
+}
